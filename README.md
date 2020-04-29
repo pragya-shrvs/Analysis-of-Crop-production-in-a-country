@@ -1,7 +1,7 @@
 # Analysis-of-Crop-production-in-a-country
 A Data science project aims to perform various types of analysis to understand the factors that affect the productivity of crop in a given land. It first conducts Exploratory Data Analysis (EDA) and data visualization to understand the behaviour of each feature and how they are affecting other features as well as the target variable and then performs Predictive analysis to predict which land areas are likely to produce more crop. 
 
-## Datasets
+## Dataset
 The dataset contains information about yield from 1000 farms across a country.
 
 Independent variable:
@@ -18,17 +18,17 @@ Dependent variable/ Target variable:
 - Yield : total crop yield by farm
 
 ## Exploratory Data Analysis
- - Data Summary
- - Univariate analysis
- - Bivariate analysis and Hypothesis testing (Using Bivariate)
+ - Data Summaries - Attribute type, Class distribution, Mean, Median, SD, Quartile, Skewness, Kurtosis.
+ - Univariate analysis.
+ - Bivariate analysis and Hypothesis testing (Using Bivariate).
  
  ## Data VIsualization
  - Histogram
- - count plot
+ - Count plot
  - QQ plot
  - Box plot
- - scatter plot
- - correlation matrix
+ - Scatter plot
+ - Correlation matrix
 
 ## Feature Engineering
 - Missing value treatment
